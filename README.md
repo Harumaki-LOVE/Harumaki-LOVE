@@ -7,6 +7,6 @@ My work lies at the intersection of wearable robotics, biomechanics, rehabilitat
 I'm also working on a humanoid robot project and [non-taouch vital sensing project](https://sanlab.iit.tsukuba.ac.jp/monitoring-system/) as a research assistant.
 
 ## Links
-- [CV (Jan 2026)](./cv.pdf)
-- [Résumé (Jan 2026)](./resume.pdf)
+- [CV (Coming soon)](./cv.pdf)
+- [Résumé (Comming soon)](./resume.pdf)
 - [Biography](https://harumaki-love.github.io/)
