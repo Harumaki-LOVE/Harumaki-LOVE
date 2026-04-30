@@ -5,3 +5,8 @@ My research focuses on wearable robotic systems that support postural control an
 My work lies at the intersection of wearable robotics, biomechanics, rehabilitation science, and control engineering. I aim to develop human-centered robotic systems that improve mobility, stability, and daily quality of life.
 
 Beyond wearable robotics, I am interested in human augmentation, personal informatics, and AI-based coaching systems that use activity logs from smart devices to support better habits, learning, and well-being.
+
+## Links
+- [CV (Jan 2026)](./cv.pdf)
+- [Résumé (Jan 2026)](./resume.pdf)
+- [Biography](https://harumaki-love.github.io/)
